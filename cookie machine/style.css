@@ -1,0 +1,26 @@
+* {
+    margin: 10;
+
+}
+#fortune {
+    position: absolute;
+    font-family: monospace;
+    font-size: 14px;
+    top: 340px;
+    left: 570px;
+    color: black;
+    /* background-color: blue; */
+    margin-top: 20px;
+    padding: 15px;
+}
+
+.cookies{
+
+}
+
+.open{
+  position: absolute;
+  top: 90px;
+  left: 230px;
+
+}
