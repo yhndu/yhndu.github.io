@@ -14,12 +14,8 @@
     padding: 15px;
 }
 
-.center{
-  position: absolute;
-  width: 50%;
-  height: 50%;
-  transform: translate(-50% -50%);
-  background-color: red;
+.cookies{
+
 }
 
 .open{
